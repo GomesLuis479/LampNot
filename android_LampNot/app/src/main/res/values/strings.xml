@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LampNot</string>
+    <string name="button_start">Enable / Disable </string>
+    <string name="button_stop">ADD  +  </string>
+    <string name="service_name">LampNot</string>
+    <string name="select_color">Color</string>
+    <string name="select_app">Select App</string>
+    <string name="change_app">Change App</string>
+    <string name="button_done">Done</string>
+    <string name="button_save">SAVE</string>
+    <string name="button_delete">Delete</string>
+    <string name="NONE_PACKAGE">NONE</string>
+    <string name="button_authentication">Authentication</string>
+    <string name="TextView_title_authentication">UBIDOTS Details</string>
+
+    <string-array name="color_list">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
