@@ -26,7 +26,7 @@ VARIABLE_NAME = 'lamp'
 TOKEN = 'A1E-vL7sdanfs7NyRyNZ2COokUvxsWqIJkGE2Nb0wVqABJ1N'
 ```
 To get the above three fields:
-- Sign-in to Ubidots
+- Sign-in to [Ubidots](https://app.ubidots.com/accounts/signin/)
 - Create a Device
 - Create a Variable in the device you just created
 
