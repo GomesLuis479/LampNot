@@ -1,5 +1,5 @@
-# LampNot - Notification Lamp ([Project Video]
-#### (https://www.youtube.com/watch?v=V0Xg72j4OvM&feature=youtu.be))
+# LampNot - Notification Lamp 
+#### ([Project Video](https://www.youtube.com/watch?v=V0Xg72j4OvM&feature=youtu.be))
 A lamp connected over the internet flashes colors based on notifications on a user’s phone (android). Hardware used: Raspberry Pi 3 Model B. Cloud service used: Ubidots.
 The root directory contains an android studio project `/android_LampNot` and a python script `/raspberry_pi/rasp_pi.py` for Raspberry Pi. APK file is also available in the root directory. 
 
